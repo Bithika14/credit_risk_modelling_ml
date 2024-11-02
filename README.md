@@ -1,0 +1,1 @@
+This project develops a credit risk model to predict the likelihood of loan default based on borrowers' demographic, financial, and behavioral data. The model leverages advanced machine learning algorithms to classify borrowers into risk categories, providing valuable insights for credit risk management.
